@@ -21,19 +21,19 @@ function play(question,answer)
   }
 //array of objects
 var questions=[{
-  question: 'How many sequels does IRON MAN movie has ?',
+  question: 'How many sequels does IRON MAN movie has ? ',
   answer: 'three'
 }, {
-  question: "What is thor's hammer called ?",
+  question: "What is thor's hammer called ? ",
   answer: "mjolnir"
                },{
-  question: "What was the name of last movie of MARVEL in which thanos was defeated?",
-  answer: 'avengersendgame'
+  question: "What was the name of last movie of MARVEL in which thanos was defeated? ",
+  answer: 'avengers endgame'
 },{
-  question: "In which year Avengers Endgame came out?",
+  question: "In which year Avengers Endgame came out? ",
   answer: '2019'
   },{
-  question: "Which hero's arm got burnt due to the usage of infinity stones?",
+  question: "Which hero's arm got burnt due to the usage of infinity stones? ",
   answer: "hulk"
   }]
 
